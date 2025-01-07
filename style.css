@@ -1,0 +1,28 @@
+* {
+  font-family: Helvetica, sans-serif;
+  background-color: #fefae0;
+}
+
+h1 {
+  color: #283618;
+  font-weight: 800;
+}
+
+h2 {
+  color: #606c38;
+  font-weight: 700;
+}
+
+a {
+  color: #dda15e;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #bc6c25;
+}
+
+ul li {
+  list-style-type: square;
+}
